@@ -14,4 +14,7 @@ public interface UserService {
 	//ccc方法
 	void ccc();
 	
+	//张三又加了一个aaa方法
+	void aaa();
+	
 }
