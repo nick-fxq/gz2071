@@ -11,4 +11,7 @@ public interface UserService {
 	// xxx方法
 	void xxx();
 	
+	//ccc方法
+	void ccc();
+	
 }
